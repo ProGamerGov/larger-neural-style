@@ -1,5 +1,8 @@
 #! /bin/bash
 
+
+#1920/3=640 and Multries starts at 640. So multires tile size is good. 
+
 # DEFINES
 IMAGE_SIZE=1000 # -image_size for neural-style
 ITERATIONS=250 # -num_iterations for neural-style
